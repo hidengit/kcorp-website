@@ -33,7 +33,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 Clonez le projet depuis GitLab en utilisant la commande suivante dans votre terminal :
 
 ```bash
-git clone X
+git clone https://github.com/hidengit/kcorp-website.git
 ```
 
 ### 2. Configurer le projet
